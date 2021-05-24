@@ -4,4 +4,11 @@
     <string name="channel_name">Product</string>
     <string name="channel_description">Notifications regarding meal time</string>
     <string name="string_id">id_product</string>
+    <string name="str_sunday">Sunday</string>
+    <string name="str_monday">Monday</string>
+    <string name="str_tuesday">Tuesday</string>
+    <string name="str_wednesday">Wednesday</string>
+    <string name="str_thursday">Thursday</string>
+    <string name="str_friday">Friday</string>
+    <string name="str_saturday">Saturday</string>
 </resources>
